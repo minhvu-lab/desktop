@@ -6,83 +6,83 @@
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="107"/>
         <source>%1 (%2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2, %3)</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="124"/>
         <source>Checking for changes in &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểm tra các thay đổi trong &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="129"/>
         <source>Syncing %1 of %2  (%3 left)</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa %1 of %2  (%3 còn lại)</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="134"/>
         <source>Syncing %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa %1 of %2</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="141"/>
         <source>Syncing %1 (%2 left)</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa %1 (%2 còn lại)</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="144"/>
         <source>Syncing %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa %1</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="165"/>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="227"/>
         <source>No recently changed files</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có tập tin thay đổi gần đây</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="181"/>
         <source>Sync paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa đã tạm dừng</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="184"/>
         <source>Syncing</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang đồng bộ </translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="220"/>
         <source>Open website</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở trang web</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="232"/>
         <source>Recently changed</source>
-        <translation type="unfinished"></translation>
+        <translation>Thay đổi gần đây</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="239"/>
         <source>Pause synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation >Tạm dừng đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="246"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Trợ giúp</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="249"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Cài đặt</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="252"/>
         <source>Log out</source>
-        <translation type="unfinished"></translation>
+        <translation>Đăng xuất</translation>
     </message>
     <message>
         <location filename="../src/gui/cloudproviders/cloudproviderwrapper.cpp" line="255"/>
         <source>Quit sync client</source>
-        <translation type="unfinished"></translation>
+        <translation>Thoát đồng bộ</translation>
     </message>
 </context>
 <context>
@@ -114,22 +114,22 @@
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.ui" line="32"/>
         <source>Please switch to your browser to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng chuyển sang trình duyệt của bạn để tiếp tục</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.ui" line="42"/>
         <source>An error occurred while connecting. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã xảy ra lỗi trong khi kết nối. Vui lòng thử lại.</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.ui" line="52"/>
         <source>Re-open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở lại trình duyệt</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.ui" line="65"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép đường dẫn</translation>
     </message>
 </context>
 <context>
@@ -137,12 +137,12 @@
     <message>
         <location filename="../src/gui/folderwizardsourcepage.ui" line="33"/>
         <source>Pick a local folder on your computer to sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn một thư mục cục bộ trên máy tính của bạn để đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizardsourcepage.ui" line="44"/>
         <source>&amp;Choose …</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn …</translation>
     </message>
 </context>
 <context>
@@ -150,22 +150,22 @@
     <message>
         <location filename="../src/gui/folderwizardtargetpage.ui" line="131"/>
         <source>Select a remote destination folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn một thư mục đích từ xa</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizardtargetpage.ui" line="143"/>
-        <source>Create Folder</source>
-        <translation type="unfinished"></translation>
+        <source>Create folder</source>
+        <translation>Tạo thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizardtargetpage.ui" line="163"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Làm mới</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizardtargetpage.ui" line="177"/>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Thư mục</translation>
     </message>
 </context>
 <context>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../src/gui/accountmanager.cpp" line="353"/>
         <source>End to end encryption mnemonic</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết thúc để ghi nhớ mã hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountmanager.cpp" line="354"/>
@@ -204,140 +204,140 @@
     <message>
         <location filename="../src/gui/accountsettings.ui" line="31"/>
         <source>Unchecked folders will be &lt;b&gt;removed&lt;/b&gt; from your local file system and will not be synchronized to this computer anymore</source>
-        <translation type="unfinished"></translation>
+        <translation>Các thư mục không được đánh dấu &lt;b&gt;bị xoá &lt;/b&gt; khỏi hệ thống tệp cục bộ của bạn và sẽ không được đồng bộ hóa với máy tính này nữa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.ui" line="77"/>
         <source>Synchronize all</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa tất cả</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.ui" line="84"/>
         <source>Synchronize none</source>
-        <translation type="unfinished"></translation>
+        <translation>Không đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.ui" line="91"/>
         <source>Apply manual changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Áp dụng thay đổi thủ công</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.ui" line="139"/>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Áp dụng</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.ui" line="204"/>
         <source>Storage space: …</source>
-        <translation type="unfinished"></translation>
+        <translation>Không gian lưu trữ: …</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.ui" line="126"/>
         <location filename="../src/gui/accountsettings.cpp" line="759"/>
         <location filename="../src/gui/accountsettings.cpp" line="1154"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Thoát</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.ui" line="174"/>
         <source>Connected with &lt;server&gt; as &lt;user&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối tới &lt;server&gt; với tài khoản &lt;user&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="187"/>
         <source>No account configured.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có tài khoản được cấu hình.</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="216"/>
         <source>This account supports end-to-end encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Tài khoản này hỗ trợ mã hóa đầu cuối</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="218"/>
         <source>Enable encryption</source>
-        <translation type="unfinished"></translation>
+        <translation>Cho phép mã hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="561"/>
         <source>Encrypt</source>
-        <translation type="unfinished"></translation>
+        <translation>Mã hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="569"/>
         <location filename="../src/gui/accountsettings.cpp" line="605"/>
         <source>Edit Ignored Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Chỉnh sửa tập tin bị bỏ qua</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="609"/>
         <source>Choose what to sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn những tệp tin để đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="615"/>
         <source>Force sync now</source>
-        <translation type="unfinished"></translation>
+        <translation>Buộc đồng bộ hóa ngay bây giờ</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="617"/>
         <source>Restart sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi động lại đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="626"/>
         <source>Remove folder sync connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa kết nối đồng bộ hóa thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="697"/>
         <source>Folder creation failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa kết nối đồng bộ hóa thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="751"/>
         <source>Confirm Folder Sync Connection Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Xác nhận xóa kết nối đồng bộ hóa thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="758"/>
         <source>Remove Folder Sync Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa kết nối đồng bộ hóa thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="843"/>
         <source>Sync Running</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa đang chạy</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="844"/>
         <source>The syncing operation is running.&lt;br/&gt;Do you want to terminate it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoạt động đồng bộ hóa đang chạy..&lt;br/&gt;Bạn có muốn huỷ bỏ đồng bộ ?</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="933"/>
         <source>%1 in use</source>
-        <translation type="unfinished"></translation>
+        <translation >%1 đang sử dụng</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="960"/>
         <source>%1 as &lt;i&gt;%2&lt;/i&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 với &lt;i&gt;%2&lt;/i&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="966"/>
         <source>The server version %1 is old and unsupported! Proceed at your own risk.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The server version %1 is old and unsupported! Proceed at your own risk.</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="968"/>
         <source>Connected to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối tới %1.</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="970"/>
         <source>Server %1 is temporarily unavailable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Phiên bản máy chủ %1 đã cũ và không được hỗ trợ! </translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="972"/>
@@ -347,98 +347,98 @@
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="974"/>
         <source>Signed out from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Máy chủ %1 hiện đang ở chế độ bảo trì.</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="983"/>
         <source>Obtaining authorization from the browser. &lt;a href=&apos;%1&apos;&gt;Click here&lt;/a&gt; to re-open the browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhận ủy quyền từ trình duyệt. &lt;a href=&apos;%1&apos;&gt;CBấm vào đây&lt;/a&gt; để mở lại trình duyệt.</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="990"/>
         <source>No connection to %1 at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có kết nối với %1 ở %2.</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="1109"/>
         <source>There are folders that were not synchronized because they are too big: </source>
-        <translation type="unfinished"></translation>
+        <translation>Có những thư mục không được đồng bộ hóa vì chúng quá lớn</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="1111"/>
         <source>There are folders that were not synchronized because they are external storages: </source>
-        <translation type="unfinished"></translation>
+        <translation>Có những thư mục không được đồng bộ hóa vì chúng là kho lưu trữ bên ngoài:</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="1112"/>
         <source>There are folders that were not synchronized because they are too big or external storages: </source>
-        <translation type="unfinished"></translation>
+        <translation>Có những thư mục không được đồng bộ hóa vì chúng quá lớn hoặc được lưu trữ bên ngoài:</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="1146"/>
         <source>Confirm Account Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Xác nhận xóa tài khoản</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="1147"/>
         <source>&lt;p&gt;Do you really want to remove the connection to the account &lt;i&gt;%1&lt;/i&gt;?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This will &lt;b&gt;not&lt;/b&gt; delete any files.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Bạn có thực sự muốn xóa kết nối với tài khoản &lt;i&gt;%1&lt;/i&gt;?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Chú ý:&lt;/b&gt; Nó sẽ &lt;b&gt;không &lt;/b&gt; xoá bất kì tệp tin nào.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="1153"/>
         <source>Remove connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa kết nối</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="545"/>
         <location filename="../src/gui/accountsettings.cpp" line="602"/>
         <source>Open folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="623"/>
         <source>Resume sync</source>
-        <translation type="unfinished"></translation>
+        <translation >Tiếp tục đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="623"/>
         <source>Pause sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Tạm dừng đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="698"/>
         <source>&lt;p&gt;Could not create local folder &lt;i&gt;%1&lt;/i&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Không thể tạo thư mục cục bộ &lt;i&gt;%1&lt;/i&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="752"/>
         <source>&lt;p&gt;Do you really want to stop syncing the folder &lt;i&gt;%1&lt;/i&gt;?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This will &lt;b&gt;not&lt;/b&gt; delete any files.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Bạn có thực sự muốn dừng đồng bộ hóa thư mục &lt;i&gt;%1&lt;/i&gt;?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Chú ý:&lt;/b&gt; Điều này sẽ &lt;b&gt;không&lt;/b&gt; xoá bất kỳ tệp tin nào.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="920"/>
         <source>%1 (%3%) of %2 in use. Some folders, including network mounted or shared folders, might have different limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%3%) của %2 đang sử dụng. Một số thư mục, bao gồm các thư mục được gắn hoặc chia sẻ, có thể có các giới hạn khác nhau.</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="921"/>
         <source>%1 of %2 in use</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 trên %2 đang sử dụng</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="930"/>
         <source>Currently there is no storage usage information available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiện tại không có thông tin sử dụng lưu trữ có sẵn.</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="987"/>
         <source>Connecting to %1 …</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang kết nối tới %1 …</translation>
     </message>
     <message>
         <location filename="../src/gui/accountsettings.cpp" line="996"/>
         <source>No %1 connection configured.</source>
-        <translation type="unfinished"></translation>
+        <translation >Không có kết nối %1 được cấu hình.</translation>
     </message>
 </context>
 <context>
@@ -622,7 +622,7 @@
     <message>
         <location filename="../src/gui/connectionvalidator.cpp" line="50"/>
         <source>No Nextcloud account configured</source>
-        <translation>No Bizflydrive account configured</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../src/gui/connectionvalidator.cpp" line="159"/>
@@ -683,12 +683,12 @@
     <message>
         <location filename="../src/gui/wizard/flow2authcredspage.cpp" line="37"/>
         <source>Connect to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối tới %1</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/flow2authcredspage.cpp" line="38"/>
         <source>Login in your browser (Login Flow v2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Đăng nhập trong trình duyệt của bạn (Đăng nhập Flow v2)</translation>
     </message>
 </context>
 <context>
@@ -696,27 +696,27 @@
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.cpp" line="80"/>
         <source>Unable to open the Browser, please copy the link to your Browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể mở Trình duyệt, vui lòng sao chép liên kết vào trình duyệt của bạn</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.cpp" line="143"/>
         <source>Waiting for authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Chờ ủy quyền</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.cpp" line="148"/>
         <source>Polling for authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Bỏ phiếu cho ủy quyền</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.cpp" line="153"/>
         <source>Starting authorization</source>
-        <translation type="unfinished"></translation>
+        <translation>Bắt đầu ủy quyền</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/flow2authwidget.cpp" line="157"/>
         <source>Link copied to clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liên kết được sao chép vào khay nhớ tạm.</translation>
     </message>
 </context>
 <context>
@@ -948,7 +948,7 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderman.cpp" line="295"/>
         <source>Could not reset folder state</source>
-        <translation type="unfinished"></translation>
+        <translation >Không thể thiết lập lại trạng thái thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="296"/>
@@ -968,82 +968,82 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderman.cpp" line="1294"/>
         <source>Undefined State.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không xác định :</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1297"/>
         <source>Waiting to start syncing.</source>
-        <translation type="unfinished"></translation>
+        <translation >Chờ để bắt đầu đồng bộ hóa.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1300"/>
         <source>Preparing for sync.</source>
-        <translation type="unfinished"></translation>
+        <translation >Chuẩn bị cho đồng bộ.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1303"/>
         <source>Sync is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa đang chạy.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1308"/>
         <source>Sync was successful, unresolved conflicts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa đã thành công, xung đột chưa được giải quyết.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1310"/>
         <source>Last Sync was successful.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa cuối cùng đã thành công.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1316"/>
         <source>Setup Error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi thiết lập.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1319"/>
         <source>User Abort.</source>
-        <translation type="unfinished"></translation>
+        <translation>User Abort.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1322"/>
         <source>Sync is paused.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa bị tạm dừng</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1328"/>
         <source>%1 (Sync is paused)</source>
-        <translation type="unfinished"></translation>
+        <translation >%1 (Đồng bộ hóa bị tạm dừng)</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1336"/>
         <source>No valid folder selected!</source>
-        <translation type="unfinished"></translation>
+        <translation >Không có thư mục hợp lệ được chọn!</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1346"/>
         <source>The selected path is not a folder!</source>
-        <translation type="unfinished"></translation>
+        <translation >Đường dẫn được chọn không phải là một thư mục!</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1350"/>
         <source>You have no permission to write to the selected folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn không có quyền ghi vào thư mục đã chọn!</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1406"/>
         <source>There is already a sync from the server to this local folder. Please pick another local folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã có đồng bộ hóa từ máy chủ đến thư mục cục bộ này. Vui lòng chọn một thư mục cục bộ khác!</translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1386"/>
         <source>The local folder %1 already contains a folder used in a folder sync connection. Please pick another one!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/gui/folderman.cpp" line="1392"/>
         <source>The local folder %1 is already contained in a folder used in a folder sync connection. Please pick another one!</source>
-        <translation type="unfinished"></translation>
+        <translation>Thư mục cục bộ %1 đã chứa một thư mục được sử dụng trong kết nối đồng bộ hóa thư mục. Vui lòng chọn một số khác!</translation>
     </message>
 </context>
 <context>
@@ -1051,17 +1051,17 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderstatusdelegate.cpp" line="48"/>
         <source>Add Folder Sync Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Thêm kết nối đồng bộ hóa thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusdelegate.cpp" line="256"/>
         <source>Synchronized with local folder (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa với thư mục cục bộ (%1)</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusdelegate.cpp" line="313"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tệp tin</translation>
     </message>
 </context>
 <context>
@@ -1069,12 +1069,12 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="144"/>
         <source>You need to be connected to add a folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn cần kết nối để thêm thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="146"/>
         <source>Click this button to add a folder to synchronize.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấn vào nút này để thêm một thư mục để đồng bộ hóa.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="155"/>
@@ -1086,22 +1086,22 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="186"/>
         <source>Error while loading the list of folders from the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi trong khi tải danh sách các thư mục từ máy chủ.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="239"/>
         <source>Signed out</source>
-        <translation type="unfinished"></translation>
+        <translation>Đăng xuất</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="215"/>
         <source>There are unresolved conflicts. Click for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Có những xung đột chưa được giải quyết. Bấm vào để xem chi tiết.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="932"/>
         <source>Reconciling changes</source>
-        <translation type="unfinished"></translation>
+        <translation>Điều chỉnh thay đổi</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="967"/>
@@ -1113,13 +1113,13 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
         <location filename="../src/gui/folderstatusmodel.cpp" line="970"/>
         <source>&apos;%1&apos;</source>
         <extracomment>Argument is a file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Đối số là tên tệp</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="994"/>
         <source>Syncing %1</source>
         <extracomment>Example text: &quot;Syncing &apos;foo.txt&apos;, &apos;bar.txt&apos;&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ %1</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="996"/>
@@ -1131,28 +1131,28 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
         <location filename="../src/gui/folderstatusmodel.cpp" line="1000"/>
         <source>download %1/s</source>
         <extracomment>Example text: &quot;download 24Kb/s&quot; (%1 is replaced by 24Kb (translated))</extracomment>
-        <translation type="unfinished"></translation>
+        <translation >tải xuống %1/s</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="1010"/>
         <source>upload %1/s</source>
         <extracomment>Example text: &quot;upload 24Kb/s&quot; (%1 is replaced by 24Kb (translated))</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>tải lên %1/s</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="921"/>
         <source>Checking for changes in remote &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểm tra các thay đổi trong điều khiển từ xa &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="189"/>
         <source>Fetching folder list from server …</source>
-        <translation type="unfinished"></translation>
+        <translation>Tìm nạp danh sách thư mục từ máy chủ</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="925"/>
         <source>Checking for changes in local &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiểm tra thay đổi tại cục bộ &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="1002"/>
@@ -1168,7 +1168,7 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
         <location filename="../src/gui/folderstatusmodel.cpp" line="1018"/>
         <source>%1 %2 (%3 of %4)</source>
         <extracomment>Example text: &quot;uploading foobar.png (2MB of 2MB)&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 (%3 của %4)</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="1022"/>
@@ -1180,30 +1180,30 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
         <location filename="../src/gui/folderstatusmodel.cpp" line="1041"/>
         <source>%5 left, %1 of %2, file %3 of %4</source>
         <extracomment>Example text: &quot;5 minutes left, 12 MB of 345 MB, file 6 of 7&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%5 còn lại, %1 của %2, %3 tệp tin của %4</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="1049"/>
         <source>%1 of %2, file %3 of %4</source>
         <extracomment>Example text: &quot;12 MB of 345 MB, file 6 of 7&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 của %2, %3 tệp tin của %4</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="1056"/>
         <source>file %1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 tệp tin của %2</translation>
     </message>
     <message>
         <location filename="../src/gui/folderstatusmodel.cpp" line="1102"/>
         <source>Waiting …</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang chờ …</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/gui/folderstatusmodel.cpp" line="1104"/>
         <source>Waiting for %n other folder(s) …</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation >
+            <numerusform>Đang chờ %n thư mục khác</numerusform>
+            <numerusform>Đang chờ %n thư mục khác</numerusform>
         </translation>
     </message>
     <message>
@@ -1225,12 +1225,12 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="550"/>
         <source>Add Folder Sync Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Thêm kết nối đồng bộ hóa thư mục</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="552"/>
         <source>Add Sync Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Thêm kết nối đồng bộ hóa</translation>
     </message>
 </context>
 <context>
@@ -1238,17 +1238,17 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="67"/>
         <source>Click to select a local folder to sync.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhấn vào đây để chọn một thư mục cục bộ để đồng bộ hóa.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="74"/>
         <source>Enter the path to the local folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nhập đường dẫn đến thư mục cục bộ.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="135"/>
         <source>Select the source folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn thư mục nguồn</translation>
     </message>
 </context>
 <context>
@@ -1256,47 +1256,47 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="183"/>
         <source>Create Remote Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tạo thư mục từ xa</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="184"/>
         <source>Enter the name of the new folder to be created below &apos;%1&apos;:</source>
-        <translation type="unfinished"></translation>
+        <translation >Nhập tên của thư mục mới sẽ được tạo bên dưới &apos;%1&apos;:</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="214"/>
         <source>Folder was successfully created on %1.</source>
-        <translation type="unfinished"></translation>
+        <translation >Thư mục đã được tạo thành công trên %1.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="225"/>
         <source>Authentication failed accessing %1</source>
-        <translation type="unfinished"></translation>
+        <translation >Xác thực không truy cập %1</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="227"/>
         <source>Failed to create the folder on %1. Please check manually.</source>
-        <translation type="unfinished"></translation>
+        <translation >Không thể tạo thư mục trên %1. Vui lòng kiểm tra thủ công.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="236"/>
         <source>Failed to list a folder. Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation >Không thể liệt kê một thư mục. Lỗi: %1</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="317"/>
         <source>Choose this to sync the entire account</source>
-        <translation type="unfinished"></translation>
+        <translation >Chọn mục này để đồng bộ hóa toàn bộ tài khoản</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="447"/>
         <source>This folder is already being synced.</source>
-        <translation type="unfinished"></translation>
+        <translation >Thư mục này đã được đồng bộ hóa.</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="449"/>
         <source>You are already syncing &lt;i&gt;%1&lt;/i&gt;, which is a parent folder of &lt;i&gt;%2&lt;/i&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation >Bạn đã đồng bộ hóa &lt;i&gt;%1&lt;/i&gt;, which is a parent folder of &lt;i&gt;%2&lt;/i&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1304,12 +1304,12 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="48"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt; %1</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Cảnh báo:&lt;/b&gt; %1</translation>
     </message>
     <message>
         <location filename="../src/gui/folderwizard.cpp" line="50"/>
         <source>&lt;b&gt;Warning:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Cảnh báo:&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -1430,24 +1430,24 @@ Continuing the sync as normal will cause all your files to be overwritten by an 
     <message>
         <location filename="../src/gui/socketapi.cpp" line="556"/>
         <source>Password for share required</source>
-        <translation type="unfinished"></translation>
+        <translation>Yêu cầu mật khẩu chia sẻ</translation>
     </message>
     <message>
         <location filename="../src/gui/socketapi.cpp" line="557"/>
         <source>Please enter a password for your link share:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng nhập mật khẩu để chia sẻ liên kết của bạn:</translation>
     </message>
     <message>
         <location filename="../src/gui/socketapi.cpp" line="576"/>
         <source>Sharing error</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi chia sẻ</translation>
     </message>
     <message>
         <location filename="../src/gui/socketapi.cpp" line="577"/>
         <source>Could not retrieve or create the public link share. Error:
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể truy xuất hoặc tạo chia sẻ liên kết công khai. Lỗi: %1</translation>
     </message>
 </context>
 <context>
@@ -1890,42 +1890,42 @@ for additional privileges during the process.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="51"/>
         <source>Connect to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối tới %1</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="52"/>
         <source>Setup local folder options</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiết lập tùy chọn thư mục cục bộ</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="61"/>
         <source>Connect …</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối …</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="159"/>
         <source>%1 folder &apos;%2&apos; is synced to local folder &apos;%3&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 thư mục &apos;%2&apos; được đồng bộ hóa với thư mục cục bộ &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="162"/>
         <source>Sync the folder &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hóa thư mục &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="167"/>
         <source>&lt;p&gt;&lt;small&gt;&lt;strong&gt;Warning:&lt;/strong&gt; The local folder is not empty. Pick a resolution!&lt;/small&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;small&gt;&lt;strong&gt;Cảnh báo:&lt;/strong&gt; Thư mục cục bộ không trống. Chọn một hành động !&lt;/small&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="176"/>
         <source>Free space: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dung lượng trống: %1</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="299"/>
         <source>Local Sync Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Thư mục đồng bộ cục bộ</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="342"/>
@@ -1936,7 +1936,7 @@ for additional privileges during the process.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.cpp" line="389"/>
         <source>There isn&apos;t enough free space in the local folder!</source>
-        <translation type="unfinished"></translation>
+        <translation>Không có đủ không gian trống trong thư mục cục bộ.</translation>
     </message>
 </context>
 <context>
@@ -1944,32 +1944,32 @@ for additional privileges during the process.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudconnectionmethoddialog.ui" line="14"/>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối thất bại</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudconnectionmethoddialog.ui" line="43"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Failed to connect to the secure server address specified. How do you wish to proceed?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt; Không thể kết nối với địa chỉ máy chủ an toàn được chỉ định.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudconnectionmethoddialog.ui" line="55"/>
         <source>Select a different URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn một URL khác</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudconnectionmethoddialog.ui" line="62"/>
         <source>Retry unencrypted over HTTP (insecure)</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudconnectionmethoddialog.ui" line="69"/>
         <source>Configure client-side TLS certificate</source>
-        <translation type="unfinished"></translation>
+        <translation >Thử lại không được mã hóa qua HTTP (không an toàn)</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudconnectionmethoddialog.cpp" line="34"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Failed to connect to the secure server address &lt;em&gt;%1&lt;/em&gt;. How do you wish to proceed?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation >&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Không thể kết nối với địa chỉ máy chủ an toàn &lt;em&gt;%1&lt;/em&gt;. Bạn có muốn tiếp tục?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -1995,7 +1995,7 @@ for additional privileges during the process.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudoauthcredspage.cpp" line="45"/>
         <source>Connect to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối tới %1</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudoauthcredspage.cpp" line="46"/>
@@ -2008,12 +2008,12 @@ for additional privileges during the process.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudsetuppage.cpp" line="54"/>
         <source>Connect to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối tới %1</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetuppage.cpp" line="55"/>
         <source>Setup %1 server</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiết lập máy chủ %1</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetuppage.cpp" line="83"/>
@@ -2039,27 +2039,28 @@ for additional privileges during the process.</source>
         <location filename="../src/gui/wizard/owncloudsetuppage.cpp" line="182"/>
         <source>This URL is NOT secure as it is not encrypted.
 It is not advisable to use it.</source>
-        <translation type="unfinished"></translation>
+        <translation >URL này KHÔNG an toàn vì nó không được mã hóa.
+Không nên sử dụng nó.</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetuppage.cpp" line="186"/>
         <source>This URL is secure. You can use it.</source>
-        <translation type="unfinished"></translation>
+        <translation>URL này là an toàn. Bạn có thể sử dụng.</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetuppage.cpp" line="225"/>
         <source>&amp;Next &gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tiếp &gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetuppage.cpp" line="285"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation >URL không hợp lệ</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetuppage.cpp" line="414"/>
         <source>Could not load certificate. Maybe wrong password?</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể tải chứng chỉ. Có lẽ sai mật khẩu?</translation>
     </message>
 </context>
 <context>
@@ -2072,12 +2073,12 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="280"/>
         <source>Failed to connect to %1 at %2:&lt;br/&gt;%3</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể kết nối với %1 at %2:&lt;br/&gt;%3</translation>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="315"/>
         <source>Timeout while trying to connect to %1 at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hết thời gian trong khi cố gắng kết nối với %1 ở %2.</translation>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="385"/>
@@ -2097,7 +2098,7 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="278"/>
         <source>Invalid URL</source>
-        <translation type="unfinished"></translation>
+        <translation>URL không hợp lệ</translation>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="297"/>
@@ -2107,7 +2108,7 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="334"/>
         <source>Trying to connect to %1 at %2 …</source>
-        <translation type="unfinished"></translation>
+        <translation>Đang cố gắng kết nối với %1 at %2 …</translation>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="453"/>
@@ -2217,12 +2218,12 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudwizard.cpp" line="94"/>
         <source>%1 Connection Wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Kết nối %1</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudwizard.cpp" line="103"/>
         <source>Skip folders configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Bỏ qua cấu hình thư mục</translation>
     </message>
 </context>
 <context>
@@ -2420,33 +2421,33 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/libsync/propagateupload.cpp" line="214"/>
         <source>File %1 cannot be uploaded because another file with the same name, differing only in case, exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể tải lên tệp %1 vì một tệp khác có cùng tên</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateupload.cpp" line="348"/>
         <source>Local file changed during syncing. It will be resumed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tập tin cục bộ thay đổi trong quá trình đồng bộ hóa. Nó sẽ được nối lại.</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateupload.cpp" line="363"/>
         <source>Local file changed during sync.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tệp cục bộ đã thay đổi trong quá trình đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateupload.cpp" line="225"/>
         <location filename="../src/libsync/propagateupload.cpp" line="603"/>
         <source>Upload of %1 exceeds the quota for the folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Tải lên %1 vượt quá hạn ngạch cho thư mục</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateupload.cpp" line="334"/>
         <source>File Removed (start upload) %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã xóa tệp (bắt đầu tải lên) %1</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateupload.cpp" line="685"/>
         <source>Error writing metadata to the database</source>
-        <translation type="unfinished"></translation>
+        <translation>Lỗi ghi dữ liệu vào cơ sở dữ liệu</translation>
     </message>
 </context>
 <context>
@@ -2454,27 +2455,27 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/libsync/propagateuploadng.cpp" line="404"/>
         <source>The local file was removed during sync.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tệp cục bộ đã bị xóa trong quá trình đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateuploadng.cpp" line="415"/>
         <source>Local file changed during sync.</source>
-        <translation type="unfinished"></translation>
+        <translation >Tệp cục bộ đã thay đổi trong quá trình đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateuploadng.cpp" line="449"/>
         <source>Unexpected return code from server (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation >Mã trả lại từ máy chủ (%1)</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateuploadng.cpp" line="456"/>
         <source>Missing File ID from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiếu ID tệp từ máy chủ</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateuploadng.cpp" line="470"/>
         <source>Missing ETag from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiếu ETag từ máy chủ</translation>
     </message>
 </context>
 <context>
@@ -2482,22 +2483,22 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/libsync/propagateuploadv1.cpp" line="213"/>
         <source>Poll URL missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Thiếu URLn</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateuploadv1.cpp" line="240"/>
         <source>The local file was removed during sync.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tệp cục bộ đã bị xóa trong quá trình đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateuploadv1.cpp" line="251"/>
         <source>Local file changed during sync.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tập tin cục bộ thay đổi trong quá trình đồng bộ hóa.</translation>
     </message>
     <message>
         <location filename="../src/libsync/propagateuploadv1.cpp" line="265"/>
         <source>The server did not acknowledge the last chunk. (No e-tag was present)</source>
-        <translation type="unfinished"></translation>
+        <translation>Các máy chủ đã không thừa nhận đoạn cuối cùng.</translation>
     </message>
 </context>
 <context>
@@ -2541,33 +2542,33 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/selectivesyncdialog.cpp" line="73"/>
         <source>Loading …</source>
-        <translation type="unfinished"></translation>
+        <translation >Đang tải …</translation>
     </message>
     <message>
         <location filename="../src/gui/selectivesyncdialog.cpp" line="79"/>
         <source>Deselect remote folders you do not wish to synchronize.</source>
-        <translation type="unfinished"></translation>
+        <translation >Bỏ chọn các thư mục từ xa mà bạn không muốn đồng bộ hóa.</translation>
     </message>
     <message>
         <location filename="../src/gui/selectivesyncdialog.cpp" line="95"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation >Tên</translation>
     </message>
     <message>
         <location filename="../src/gui/selectivesyncdialog.cpp" line="96"/>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation >Kích thước</translation>
     </message>
     <message>
         <location filename="../src/gui/selectivesyncdialog.cpp" line="227"/>
         <location filename="../src/gui/selectivesyncdialog.cpp" line="277"/>
         <source>No subfolders currently on the server.</source>
-        <translation type="unfinished"></translation>
+        <translation >Không có thư mục con hiện tại trên máy chủ.</translation>
     </message>
     <message>
         <location filename="../src/gui/selectivesyncdialog.cpp" line="279"/>
         <source>An error occurred while loading the list of sub folders.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã xảy ra lỗi trong khi tải danh sách các thư mục phụ.</translation>
     </message>
 </context>
 <context>
@@ -2575,7 +2576,7 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/tray/NotificationHandler.cpp" line="139"/>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Bỏ qua</translation>
     </message>
 </context>
 <context>
@@ -2606,7 +2607,7 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/sharedialog.cpp" line="105"/>
         <source>%1 Sharing</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 chia sẻ</translation>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.cpp" line="81"/>
@@ -2616,37 +2617,37 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/sharedialog.cpp" line="102"/>
         <source>Folder: %2</source>
-        <translation type="unfinished"></translation>
+        <translation >Thư mục: %2</translation>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.cpp" line="276"/>
         <source>The file can not be shared because it was shared without sharing permission.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể chia sẻ tệp vì nó đã được chia sẻ mà không có sự cho phép chia sẻ.</translation>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.cpp" line="311"/>
         <source>Password for share required</source>
-        <translation type="unfinished"></translation>
+        <translation>Yêu cầu mật khẩu chia sẻ</translation>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.cpp" line="312"/>
         <source>Please enter a password for your link share:</source>
-        <translation type="unfinished"></translation>
+        <translation >Vui lòng nhập mật khẩu để chia sẻ liên kết của bạn:</translation>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.ui" line="51"/>
         <source>share label</source>
-        <translation type="unfinished"></translation>
+        <translation>chia sẻ nhãn</translation>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.ui" line="82"/>
         <source>Nextcloud Path:</source>
-        <translation>Bizflydrive Path:</translation>
+        <translation >Bizflydrive Path:</translation>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.ui" line="113"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation >Biểu tượng</translation>
     </message>
 </context>
 <context>
@@ -2654,92 +2655,92 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/sharelinkwidget.ui" line="38"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Chia sẻ đường link</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.ui" line="133"/>
         <source>Note:</source>
-        <translation type="unfinished"></translation>
+        <translation >Ghi chú:</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.ui" line="192"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation >Mật khẩu:</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.ui" line="245"/>
         <source>Expires:</source>
-        <translation type="unfinished"></translation>
+        <translation >Hết hạn</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="470"/>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation >Xóa bỏ</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="158"/>
         <source>Allow Editing</source>
-        <translation type="unfinished"></translation>
+        <translation >Cho phép chỉnh sửa</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="164"/>
         <source>Read only</source>
-        <translation type="unfinished"></translation>
+        <translation >Chỉ đọc</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="169"/>
         <source>Allow Upload &amp;&amp; Editing</source>
-        <translation type="unfinished"></translation>
+        <translation >Cho phép tải lên &amp;&amp; Chỉnh sửa</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="174"/>
         <source>File Drop (Upload Only)</source>
-        <translation type="unfinished"></translation>
+        <translation >Thả tập tin (Chỉ tải lên)</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="189"/>
         <source>Add note to recipient</source>
-        <translation type="unfinished"></translation>
+        <translation >Thêm ghi chú cho người nhận</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="199"/>
         <source>Password Protect</source>
-        <translation type="unfinished"></translation>
+        <translation >Mật khẩu bảo vệ</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="216"/>
         <source>Expiration Date</source>
-        <translation type="unfinished"></translation>
+        <translation >Ngày hết hạn</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="235"/>
         <source>Unshare</source>
-        <translation type="unfinished"></translation>
+        <translation >Bỏ chia sẻ</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="240"/>
         <source>Add another link</source>
-        <translation type="unfinished"></translation>
+        <translation >Thêm một liên kết khác</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="463"/>
         <source>Confirm Link Share Deletion</source>
-        <translation type="unfinished"></translation>
+        <translation >Xác nhận xóa liên kết chia sẻ</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="464"/>
         <source>&lt;p&gt;Do you really want to delete the public link share &lt;i&gt;%1&lt;/i&gt;?&lt;/p&gt;&lt;p&gt;Note: This action cannot be undone.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation >&lt;p&gt;Bạn có thực sự muốn xóa chia sẻ liên kết công khai &lt;i&gt;%1&lt;/i&gt;?&lt;/p&gt;&lt;p&gt;Lưu ý: Hành động này không thể được hoàn tác.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="471"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation >Hủy bỏ</translation>
     </message>
     <message>
         <location filename="../src/gui/sharelinkwidget.cpp" line="489"/>
         <source>Public link</source>
-        <translation type="unfinished"></translation>
+        <translation >Liên kết công khai</translation>
     </message>
 </context>
 <context>
@@ -2747,22 +2748,22 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/shareusergroupwidget.cpp" line="270"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation >Sao chép đường dẫn</translation>
     </message>
     <message>
         <location filename="../src/gui/shareusergroupwidget.cpp" line="280"/>
         <source>No results for &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation >Không có kết quả cho &apos;%1&apos; &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../src/gui/shareusergroupwidget.cpp" line="367"/>
         <source>I shared something with you</source>
-        <translation type="unfinished"></translation>
+        <translation >Tôi đã chia sẻ vài điều với bạn</translation>
     </message>
     <message>
         <location filename="../src/gui/shareusergroupwidget.ui" line="59"/>
         <source>Share with users or groups …</source>
-        <translation type="unfinished"></translation>
+        <translation>Chia sẻ với người dùng hoặc nhóm</translation>
     </message>
 </context>
 <context>
@@ -2770,37 +2771,37 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/shareuserline.ui" line="57"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation >Tên tài khoản</translation>
     </message>
     <message>
         <location filename="../src/gui/shareuserline.ui" line="89"/>
         <source>can edit</source>
-        <translation type="unfinished"></translation>
+        <translation >có thể chỉnh sửa</translation>
     </message>
     <message>
         <location filename="../src/gui/shareusergroupwidget.cpp" line="415"/>
         <source>Can reshare</source>
-        <translation type="unfinished"></translation>
+        <translation >Có thể chia sẻ lại</translation>
     </message>
     <message>
         <location filename="../src/gui/shareusergroupwidget.cpp" line="425"/>
         <source>Unshare</source>
-        <translation type="unfinished"></translation>
+        <translation >Bỏ chia sẻ</translation>
     </message>
     <message>
         <location filename="../src/gui/shareusergroupwidget.cpp" line="434"/>
         <source>Can create</source>
-        <translation type="unfinished"></translation>
+        <translation >Có thể tạo</translation>
     </message>
     <message>
         <location filename="../src/gui/shareusergroupwidget.cpp" line="440"/>
         <source>Can change</source>
-        <translation type="unfinished"></translation>
+        <translation >Có thể thay đổi</translation>
     </message>
     <message>
         <location filename="../src/gui/shareusergroupwidget.cpp" line="446"/>
         <source>Can delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Có thể xóa</translation>
     </message>
 </context>
 <context>
@@ -2808,12 +2809,12 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/creds/shibbolethcredentials.cpp" line="259"/>
         <source>Login Error</source>
-        <translation type="unfinished"></translation>
+        <translation >Lỗi đăng nhập</translation>
     </message>
     <message>
         <location filename="../src/gui/creds/shibbolethcredentials.cpp" line="259"/>
         <source>You must sign in as user %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bạn phải đăng nhập với tư cách là người dùng %1</translation>
     </message>
 </context>
 <context>
@@ -3102,218 +3103,218 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="122"/>
         <source>Success.</source>
-        <translation type="unfinished"></translation>
+        <translation >Thành công.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="132"/>
         <source>A network connection timeout happened.</source>
-        <translation type="unfinished"></translation>
+        <translation >Đã hết thời gian kết nối mạng.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="135"/>
         <source>A HTTP transmission error happened.</source>
-        <translation type="unfinished"></translation>
+        <translation >Đã xảy ra lỗi truyền HTTP.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="159"/>
         <source>The mounted folder is temporarily not available on the server</source>
-        <translation type="unfinished"></translation>
+        <translation >Thư mục được gắn tạm thời không khả dụng trên máy chủ</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="165"/>
         <source>An error occurred while opening a folder</source>
-        <translation type="unfinished"></translation>
+        <translation >Đã xảy ra lỗi khi mở thư mục</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="168"/>
         <source>Error while reading folder.</source>
-        <translation type="unfinished"></translation>
+        <translation >Lỗi trong khi đọc thư mục.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="244"/>
         <source>%1 (skipped due to earlier error, trying again in %2)</source>
-        <translation type="unfinished"></translation>
+        <translation >%1 (bỏ qua do lỗi trước đó, thử lại trong %2)</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="516"/>
         <source>File/Folder is ignored because it&apos;s hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation >Tệp / Thư mục bị bỏ qua vì nó bị ẩn.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="519"/>
         <source>Folder hierarchy is too deep</source>
-        <translation type="unfinished"></translation>
+        <translation >Hệ thống phân cấp thư mục quá sâu</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="535"/>
         <source>Conflict: Server version downloaded, local copy renamed and not uploaded.</source>
-        <translation type="unfinished"></translation>
+        <translation >Xung đột: Phiên bản máy chủ được tải xuống, bản sao cục bộ được đổi tên và không được tải lên.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="800"/>
         <source>Only %1 are available, need at least %2 to start</source>
         <comment>Placeholders are postfixed with file sizes using Utility::octetsToString()</comment>
-        <translation type="unfinished"></translation>
+        <translation >chỉ có %1, cần ít nhất %2 để bắt đầu</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="835"/>
         <source>Unable to open or create the local sync database. Make sure you have write access in the sync folder.</source>
-        <translation type="unfinished"></translation>
+        <translation >Không thể mở hoặc tạo cơ sở dữ liệu đồng bộ cục bộ. Đảm bảo rằng bạn có quyền ghi trong thư mục đồng bộ.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1393"/>
         <source>Not allowed because you don&apos;t have permission to add parent folder</source>
-        <translation type="unfinished"></translation>
+        <translation >Không được phép vì bạn không có quyền thêm thư mục cha</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1400"/>
         <source>Not allowed because you don&apos;t have permission to add files in that folder</source>
-        <translation type="unfinished"></translation>
+        <translation ></translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1733"/>
         <source>Disk space is low: Downloads that would reduce free space below %1 were skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation >Không được phép vì bạn không có quyền thêm tệp trong thư mục đó</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1740"/>
         <source>There is insufficient space available on the server for some uploads.</source>
-        <translation type="unfinished"></translation>
+        <translation >Không đủ không gian có sẵn trên máy chủ cho một số tải lên.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="150"/>
         <source>CSync unspecified error.</source>
-        <translation type="unfinished"></translation>
+        <translation >Lỗi không xác định.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="153"/>
         <source>Aborted by the user</source>
-        <translation type="unfinished"></translation>
+        <translation >Bị hủy bỏ bởi người dùng</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="125"/>
         <source>Failed to load or create the journal file. Make sure you have read and write permissions in the local sync folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể tải hoặc tạo tệp. Đảm bảo rằng bạn đã đọc và ghi quyền trong thư mục đồng bộ cục bộ.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="129"/>
         <source>Discovery step failed.</source>
-        <translation type="unfinished"></translation>
+        <translation ></translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="138"/>
         <source>Permission denied.</source>
-        <translation type="unfinished"></translation>
+        <translation ></translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="141"/>
         <source>File or directory not found:</source>
-        <translation type="unfinished"></translation>
+        <translation>Không tìm thấy tập tin hoặc thư mục:</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="144"/>
         <source>Tried to create a folder that already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation >Đã thử tạo một thư mục đã tồn tại</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="147"/>
         <source>No space on %1 server available.</source>
-        <translation type="unfinished"></translation>
+        <translation >Không còn chỗ trống trên máy chủ %1</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="156"/>
         <source>The service is temporarily unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation >Dịch vụ này tạm thời không có</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="162"/>
         <source>Access is forbidden</source>
-        <translation type="unfinished"></translation>
+        <translation >Truy cập bị cấm</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="173"/>
         <source>An internal error number %1 occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation >Đã xảy ra lỗi nội bộ %1.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="485"/>
         <source>Symbolic links are not supported in syncing.</source>
-        <translation type="unfinished"></translation>
+        <translation >Liên kết tượng trưng không được hỗ trợ trong đồng bộ hóa.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="488"/>
         <source>File is listed on the ignore list.</source>
-        <translation type="unfinished"></translation>
+        <translation >Tập tin được liệt kê trong danh sách bỏ qua.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="492"/>
         <source>File names ending with a period are not supported on this file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên tệp kết thúc bằng một khoảng thời gian không được hỗ trợ trên hệ thống tệp này.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="502"/>
         <source>File names containing the character &apos;%1&apos; are not supported on this file system.</source>
-        <translation type="unfinished"></translation>
+        <translation >Tên tệp chứa ký tự &apos;%1&apos; không được hỗ trợ trên hệ thống tập tin này.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="505"/>
         <source>The file name is a reserved name on this file system.</source>
-        <translation type="unfinished"></translation>
+        <translation >Tên tệp là tên dành riêng trên hệ thống tệp này</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="510"/>
         <source>Filename contains trailing spaces.</source>
-        <translation type="unfinished"></translation>
+        <translation >Tên tệp chứa dấu cách.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="513"/>
         <source>Filename is too long.</source>
-        <translation type="unfinished"></translation>
+        <translation >Tên tệp quá dài.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="522"/>
         <source>The filename cannot be encoded on your file system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tên tệp không thể được mã hóa trên hệ thống tệp của bạn.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="531"/>
         <source>Unresolved conflict.</source>
-        <translation type="unfinished"></translation>
+        <translation >Xung đột chưa được giải quyết.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="539"/>
         <source>Stat failed.</source>
-        <translation type="unfinished"></translation>
+        <translation >Thất bại </translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="566"/>
         <source>Filename encoding is not valid</source>
-        <translation type="unfinished"></translation>
+        <translation >Mã hóa tên tệp không hợp lệ</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="730"/>
         <source>Invalid characters, please rename &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation >Ký tự không hợp lệ, vui lòng đổi tên &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="863"/>
         <source>Unable to read the blacklist from the local database</source>
-        <translation type="unfinished"></translation>
+        <translation >Không thể đọc danh sách từ cơ sở dữ liệu cục bộ</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="904"/>
         <source>Unable to read from the sync journal.</source>
-        <translation type="unfinished"></translation>
+        <translation >Không thể đọc từ đồng bộ hóa.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="967"/>
         <source>Cannot open the sync journal</source>
-        <translation type="unfinished"></translation>
+        <translation >Không thể mở đồng bộ</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1033"/>
         <source>File name contains at least one invalid character</source>
-        <translation type="unfinished"></translation>
+        <translation >Tên tệp chứa ít nhất một ký tự không hợp lệ</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1319"/>
@@ -3324,43 +3325,43 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1378"/>
         <source>Not allowed because you don&apos;t have permission to add subfolders to that folder</source>
-        <translation type="unfinished"></translation>
+        <translation >Không được phép vì bạn không có quyền thêm thư mục con vào thư mục đó</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1425"/>
         <source>Not allowed to upload this file because it is read-only on the server, restoring</source>
-        <translation type="unfinished"></translation>
+        <translation >Không được phép tải lên tệp này vì nó chỉ đọc trên máy chủ, khôi phục</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1441"/>
         <location filename="../src/libsync/syncengine.cpp" line="1460"/>
         <source>Not allowed to remove, restoring</source>
-        <translation type="unfinished"></translation>
+        <translation >Không được phép gỡ bỏ, khôi phục</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1474"/>
         <source>Local files and share folder removed.</source>
-        <translation type="unfinished"></translation>
+        <translation >Các tập tin cục bộ và thư mục chia sẻ bị loại bỏ.</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1528"/>
         <source>Move not allowed, item restored</source>
-        <translation type="unfinished"></translation>
+        <translation >Di chuyển không được phép</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1539"/>
         <source>Move not allowed because %1 is read-only</source>
-        <translation type="unfinished"></translation>
+        <translation >Di chuyển không được phép vì %1 là chỉ đọc</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1539"/>
         <source>the destination</source>
-        <translation type="unfinished"></translation>
+        <translation >đích đến</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncengine.cpp" line="1539"/>
         <source>the source</source>
-        <translation type="unfinished"></translation>
+        <translation>nguồn</translation>
     </message>
 </context>
 <context>
@@ -3397,27 +3398,27 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="319"/>
         <source>Retry all uploads</source>
-        <translation type="unfinished"></translation>
+        <translation >Thử tải lên lại tất cả</translation>
     </message>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="368"/>
         <source>You renamed</source>
-        <translation type="unfinished"></translation>
+        <translation >Bạn đã đổi tên</translation>
     </message>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="370"/>
         <source>You deleted</source>
-        <translation type="unfinished"></translation>
+        <translation >Bạn đã xóa</translation>
     </message>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="372"/>
         <source>You created</source>
-        <translation type="unfinished"></translation>
+        <translation >Bạn đã tạo</translation>
     </message>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="374"/>
         <source>You changed</source>
-        <translation type="unfinished"></translation>
+        <translation >Bạn đã thay đổi</translation>
     </message>
 </context>
 <context>
@@ -3425,22 +3426,22 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="688"/>
         <source>Confirm Account Removal</source>
-        <translation type="unfinished"></translation>
+        <translation>Xác nhận xóa tài khoản</translation>
     </message>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="689"/>
         <source>&lt;p&gt;Do you really want to remove the connection to the account &lt;i&gt;%1&lt;/i&gt;?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This will &lt;b&gt;not&lt;/b&gt; delete any files.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Bạn có thực sự muốn xóa kết nối với tài khoản &lt;i&gt;%1&lt;/i&gt;?&lt;/p&gt;&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; This will &lt;b&gt;not&lt;/b&gt; delete any files.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="694"/>
         <source>Remove connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Xóa kết nối</translation>
     </message>
     <message>
         <location filename="../src/gui/tray/UserModel.cpp" line="695"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hủy bỏ</translation>
     </message>
 </context>
 <context>
@@ -3474,7 +3475,7 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/creds/webflowcredentialsdialog.cpp" line="34"/>
         <source>Log in</source>
-        <translation type="unfinished"></translation>
+        <translation>Đăng nhập</translation>
     </message>
 </context>
 <context>
@@ -3596,12 +3597,12 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="304"/>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation >Máy chủ</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="354"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;If this box is checked, existing content in the local folder will be erased to start a clean sync from the server.&lt;/p&gt;&lt;p&gt;Do not check this if the local content should be uploaded to the servers folder.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation >&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Nếu hộp này được chọn, nội dung hiện có trong thư mục cục bộ sẽ bị xóa để bắt đầu đồng bộ hóa sạch từ máy chủ.&lt;/p&gt;&lt;p&gt;Không kiểm tra điều này nếu nội dung cục bộ sẽ được tải lên thư mục máy chủ.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="357"/>
@@ -3611,38 +3612,38 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="148"/>
         <source>Ask for confirmation before synchroni&amp;zing folders larger than</source>
-        <translation type="unfinished"></translation>
+        <translation>Yêu cầu xác nhận trước khi đồng bộ các thư mục lớn hơn</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="165"/>
         <source>MB</source>
         <extracomment>Trailing part of &quot;Ask confirmation before syncing folder larger than&quot; </extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hỏi trước khi đồng bộ tập tin hơn &quot;</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="174"/>
         <source>Ask for confirmation before synchronizing e&amp;xternal storages</source>
-        <translation type="unfinished"></translation>
+        <translation>Yêu cầu xác nhận trước khi đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="198"/>
         <source>Choose what to sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Chọn những thư mục để đồng bộ hóa</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="251"/>
         <source>&amp;Local Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Thư mục cục bộ</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="344"/>
         <source>&amp;Keep local data</source>
-        <translation type="unfinished"></translation>
+        <translation>Giữ dữ liệu cục bộ</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudadvancedsetuppage.ui" line="90"/>
         <source>S&amp;ync everything from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Đồng bộ hoá mọi thứ từ máy chủ</translation>
     </message>
 </context>
 <context>
@@ -3663,22 +3664,22 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudoauthcredspage.ui" line="36"/>
         <source>Please switch to your browser to proceed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vui lòng chuyển sang trình duyệt của bạn để tiếp tục</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudoauthcredspage.ui" line="46"/>
         <source>An error occurred while connecting. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã xảy ra lỗi trong khi kết nối. Vui lòng thử lại.</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudoauthcredspage.ui" line="56"/>
         <source>Re-open Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Mở lại trình duyệt</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudoauthcredspage.ui" line="69"/>
         <source>Copy link</source>
-        <translation type="unfinished"></translation>
+        <translation>Sao chép đường dẫn</translation>
     </message>
 </context>
 <context>
@@ -3686,17 +3687,17 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/wizard/owncloudsetupnocredspage.ui" line="343"/>
         <source>Register with a provider</source>
-        <translation type="unfinished"></translation>
+        <translation>Đăng ký</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetupnocredspage.ui" line="365"/>
         <source>Log in</source>
-        <translation type="unfinished"></translation>
+        <translation>Đăng nhập</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetupnocredspage.ui" line="194"/>
         <source>Server Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Địa chỉ máy chủ</translation>
     </message>
 </context>
 <context>
@@ -3712,70 +3713,70 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/common/utility.cpp" line="463"/>
         <source>in the future</source>
-        <translation type="unfinished"></translation>
+        <translation>trong tương lai</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="457"/>
         <source>%n day ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ngày trước</numerusform>
+            <numerusform>%n ngày trước</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="459"/>
         <source>%n days ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ngày trước</numerusform>
+            <numerusform>%n ngày trước</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="469"/>
         <source>%n hour ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n giờ trước</numerusform>
+            <numerusform>%n giờ trước</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="471"/>
         <source>%n hours ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n giờ trước</numerusform>
+            <numerusform>%n giờ trước</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/common/utility.cpp" line="478"/>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>ngay lúc này</translation>
     </message>
     <message>
         <location filename="../src/common/utility.cpp" line="480"/>
         <source>Less than a minute ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Chưa đầy một phút trước</translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="484"/>
         <source>%n minute ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n phút trước</numerusform>
+            <numerusform>%n phút trước</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="486"/>
         <source>%n minutes ago</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n phút trước</numerusform>
+            <numerusform>%n phút trước</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../src/common/utility.cpp" line="490"/>
         <source>Some time ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Thời gian trước</translation>
     </message>
     <message>
         <location filename="../src/libsync/syncresult.cpp" line="153"/>
@@ -3809,49 +3810,49 @@ It is not advisable to use it.</source>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="310"/>
         <source>%n year(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n năm</numerusform>
+            <numerusform>%n năm</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="311"/>
         <source>%n month(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n tháng</numerusform>
+            <numerusform>%n tháng</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="312"/>
         <source>%n day(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n ngày</numerusform>
+            <numerusform>%n ngày</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="313"/>
         <source>%n hour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation >
+            <numerusform>%n giờ</numerusform>
+            <numerusform>%n giờ</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="314"/>
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation >
+            <numerusform>%n phút</numerusform>
+            <numerusform>%n phút</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <location filename="../src/common/utility.cpp" line="315"/>
         <source>%n second(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n giây</numerusform>
+            <numerusform>%n giây</numerusform>
         </translation>
     </message>
     <message>
@@ -4047,22 +4048,22 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/guiutility.cpp" line="34"/>
         <source>Could not open browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể mở trình duyệt</translation>
     </message>
     <message>
         <location filename="../src/gui/guiutility.cpp" line="35"/>
         <source>There was an error when launching the browser to go to URL %1. Maybe no default browser is configured?</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã xảy ra lỗi khi khởi chạy trình duyệt để truy cập URL %1. Có lẽ không có trình duyệt mặc định được cấu hình?</translation>
     </message>
     <message>
         <location filename="../src/gui/guiutility.cpp" line="58"/>
         <source>Could not open email client</source>
-        <translation type="unfinished"></translation>
+        <translation>Không thể mở ứng dụng email</translation>
     </message>
     <message>
         <location filename="../src/gui/guiutility.cpp" line="59"/>
         <source>There was an error when launching the email client to create a new message. Maybe no default email client is configured?</source>
-        <translation type="unfinished"></translation>
+        <translation>Đã xảy ra lỗi khi khởi chạy ứng dụng email để tạo thư mới. Có lẽ không có ứng dụng email mặc định nào được cấu hình?</translation>
     </message>
 </context>
 </TS>
